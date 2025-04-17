@@ -1,0 +1,8 @@
+frame_faces
+*.mp4
+db
+face_reco.ipynb
+deepface
+env
+pip
+Ultralytics
